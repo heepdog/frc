@@ -1,0 +1,820 @@
+{
+  "matches": [
+    {
+      "matchNumber": 1001,
+      "matchTime": "",
+      "teams": {
+        "red": [
+          {
+            "number": 4728,
+            "name": "Rocori Ratcheteers"
+          },
+          {
+            "number": 4656,
+            "name": "Rock solid Robotics"
+          },
+          {
+            "number": 7103,
+            "name": "Robo Remedy @ Manitowoc Lutheran High school"
+          }
+        ],
+        "blue": [
+          {
+            "number": 3740,
+            "name": "Storm Robotics"
+          },
+          {
+            "number": 7038,
+            "name": "Totinio Grace Pizza pi's"
+          },
+          {
+            "number": 7068,
+            "name": "Mechanical Masterminds"
+          }
+        ]
+      }
+    },
+    {
+      "matchNumber": 1002,
+      "matchTime": "",
+      "teams": {
+        "red": [
+          {
+            "number": 4607,
+            "name": "CIS"
+          },
+          {
+            "number": 7530,
+            "name": "Raiders of the lost Spark"
+          },
+          {
+            "number": 6749,
+            "name": "Terabytes"
+          }
+        ],
+        "blue": [
+          {
+            "number": 2509,
+            "name": "Tigerbots"
+          },
+          {
+            "number": 6244,
+            "name": "Light sabers"
+          },
+          {
+            "number": 7578,
+            "name": "Quantum mechanics"
+          }
+        ]
+      }
+    },
+    {
+      "matchNumber": 1003,
+      "matchTime": "",
+      "teams": {
+        "red": [
+          {
+            "number": 5041,
+            "name": "Cybears"
+          },
+          {
+            "number": 2855,
+            "name": "Beastbot"
+          },
+          {
+            "number": 6045,
+            "name": "Sabre Robotics"
+          }
+        ],
+        "blue": [
+          {
+            "number": 3058,
+            "name": "Androids"
+          },
+          {
+            "number": 7257,
+            "name": "Semiconductors"
+          },
+          {
+            "number": 8878,
+            "name": "Arrowbot"
+          }
+        ]
+      }
+    },
+    {
+      "matchNumber": 1004,
+      "matchTime": "",
+      "teams": {
+        "red": [
+          {
+            "number": 6709,
+            "name": "Spud INC."
+          },
+          {
+            "number": 8516,
+            "name": "Wired up"
+          },
+          {
+            "number": 4226,
+            "name": "Huskies"
+          }
+        ],
+        "blue": [
+          {
+            "number": 6628,
+            "name": "KMS botkickers"
+          },
+          {
+            "number": 4238,
+            "name": "Resistance Robotics"
+          },
+          {
+            "number": 8255,
+            "name": "Robodogs"
+          }
+        ]
+      }
+    },
+    {
+      "matchNumber": 1005,
+      "matchTime": "",
+      "teams": {
+        "red": [
+          {
+            "number": 8586,
+            "name": "Firebird Robotics"
+          },
+          {
+            "number": 4166,
+            "name": "Robostang"
+          },
+          {
+            "number": 3848,
+            "name": "Bots in shining armor"
+          }
+        ],
+        "blue": [
+          {
+            "number": 7677,
+            "name": "Bodacious Bulldogs"
+          },
+          {
+            "number": 2538,
+            "name": "Plaid Pillagers"
+          },
+          {
+            "number": 8422,
+            "name": "Husky Howlers"
+          }
+        ]
+      }
+    },
+    {
+      "matchNumber": 1006,
+      "matchTime": "",
+      "teams": {
+        "red": [
+          {
+            "number": 4480,
+            "name": "UC-botics"
+          },
+          {
+            "number": 8372,
+            "name": "HCN storm"
+          },
+          {
+            "number": 2667,
+            "name": "Knights of the Valley"
+          }
+        ],
+        "blue": [
+          {
+            "number": 3276,
+            "name": "TOOLCATS"
+          },
+          {
+            "number": 7028,
+            "name": "Binary Battalion"
+          },
+          {
+            "number": 5348,
+            "name": "Charger Robotics"
+          }
+        ]
+      }
+    },
+    {
+      "matchNumber": 1007,
+      "matchTime": "",
+      "teams": {
+        "red": [
+          {
+            "number": 6175,
+            "name": "EVW mystery machine"
+          },
+          {
+            "number": 4182,
+            "name": "Viking Robotics"
+          },
+          {
+            "number": 2883,
+            "name": "FRED"
+          }
+        ],
+        "blue": [
+          {
+            "number": 7858,
+            "name": "Warriors"
+          },
+          {
+            "number": 8887,
+            "name": "West Central Area"
+          },
+          {
+            "number": 5143,
+            "name": "Raw Steel"
+          }
+        ]
+      }
+    },
+    {
+      "matchNumber": 1008,
+      "matchTime": "",
+      "teams": {
+        "red": [
+          {
+            "number": 3278,
+            "name": "Electric Lakers"
+          },
+          {
+            "number": 8188,
+            "name": "Grand Force"
+          },
+          {
+            "number": 3026,
+            "name": "Orange Crush"
+          }
+        ],
+        "blue": [
+          {
+            "number": 4239,
+            "name": "Warpspeed"
+          },
+          {
+            "number": 5658,
+            "name": "Stormbotics"
+          },
+          {
+            "number": 2503,
+            "name": "Warrior Robotics"
+          }
+        ]
+      }
+    },
+    {
+      "matchNumber": 1009,
+      "matchTime": "",
+      "teams": {
+        "red": [
+          {
+            "number": 4238,
+            "name": "Resistance Robotics"
+          },
+          {
+            "number": 4226,
+            "name": "Huskies"
+          },
+          {
+            "number": 3740,
+            "name": "Storm Robotics"
+          }
+        ],
+        "blue": [
+          {
+            "number": 2855,
+            "name": "Beastbot"
+          },
+          {
+            "number": 2509,
+            "name": "Tigerbots"
+          },
+          {
+            "number": 4607,
+            "name": "CIS"
+          }
+        ]
+      }
+    },
+    {
+      "matchNumber": 1010,
+      "matchTime": "",
+      "teams": {
+        "red": [
+          {
+            "number": 7578,
+            "name": "Quantum mechanics"
+          },
+          {
+            "number": 5041,
+            "name": "Cybears"
+          },
+          {
+            "number": 2538,
+            "name": "Plaid Pillagers"
+          }
+        ],
+        "blue": [
+          {
+            "number": 7068,
+            "name": "Mechanical Masterminds"
+          },
+          {
+            "number": 7103,
+            "name": "Robo Remedy @ Manitowoc Lutheran High school"
+          },
+          {
+            "number": 6709,
+            "name": "Spud INC."
+          }
+        ]
+      }
+    },
+    {
+      "matchNumber": 1011,
+      "matchTime": "",
+      "teams": {
+        "red": [
+          {
+            "number": 2667,
+            "name": "Knights of the Valley"
+          },
+          {
+            "number": 8878,
+            "name": "Arrowbot"
+          },
+          {
+            "number": 7038,
+            "name": "Totinio Grace Pizza pi's"
+          }
+        ],
+        "blue": [
+          {
+            "number": 6749,
+            "name": "Terabytes"
+          },
+          {
+            "number": 6628,
+            "name": "KMS botkickers"
+          },
+          {
+            "number": 8586,
+            "name": "Firebird Robotics"
+          }
+        ]
+      }
+    },
+    {
+      "matchNumber": 1012,
+      "matchTime": "",
+      "teams": {
+        "red": [
+          {
+            "number": 7028,
+            "name": "Binary Battalion"
+          },
+          {
+            "number": 3058,
+            "name": "Androids"
+          },
+          {
+            "number": 4656,
+            "name": "Rock solid Robotics"
+          }
+        ],
+        "blue": [
+          {
+            "number": 6244,
+            "name": "Light sabers"
+          },
+          {
+            "number": 7677,
+            "name": "Bodacious Bulldogs"
+          },
+          {
+            "number": 8887,
+            "name": "West Central Area"
+          }
+        ]
+      }
+    },
+    {
+      "matchNumber": 1013,
+      "matchTime": "",
+      "teams": {
+        "red": [
+          {
+            "number": 2503,
+            "name": "Warrior Robotics"
+          },
+          {
+            "number": 2883,
+            "name": "FRED"
+          },
+          {
+            "number": 7257,
+            "name": "Semiconductors"
+          }
+        ],
+        "blue": [
+          {
+            "number": 3848,
+            "name": "Bots in shining armor"
+          },
+          {
+            "number": 5348,
+            "name": "Charger Robotics"
+          },
+          {
+            "number": 6175,
+            "name": "EVW mystery machine"
+          }
+        ]
+      }
+    },
+    {
+      "matchNumber": 1014,
+      "matchTime": "",
+      "teams": {
+        "red": [
+          {
+            "number": 8255,
+            "name": "Robodogs"
+          },
+          {
+            "number": 7858,
+            "name": "Warriors"
+          },
+          {
+            "number": 8372,
+            "name": "HCN storm"
+          }
+        ],
+        "blue": [
+          {
+            "number": 3026,
+            "name": "Orange Crush"
+          },
+          {
+            "number": 8422,
+            "name": "Husky Howlers"
+          },
+          {
+            "number": 4728,
+            "name": "Rocori Ratcheteers"
+          }
+        ]
+      }
+    },
+    {
+      "matchNumber": 1015,
+      "matchTime": "",
+      "teams": {
+        "red": [
+          {
+            "number": 4166,
+            "name": "Robostang"
+          },
+          {
+            "number": 4239,
+            "name": "Warpspeed"
+          },
+          {
+            "number": 3276,
+            "name": "TOOLCATS"
+          }
+        ],
+        "blue": [
+          {
+            "number": 6045,
+            "name": "Sabre Robotics"
+          },
+          {
+            "number": 5143,
+            "name": "Raw Steel"
+          },
+          {
+            "number": 5658,
+            "name": "Stormbotics"
+          }
+        ]
+      }
+    },
+    {
+      "matchNumber": 1016,
+      "matchTime": "",
+      "teams": {
+        "red": [
+          {
+            "number": 7530,
+            "name": "Raiders of the lost Spark"
+          },
+          {
+            "number": 3278,
+            "name": "Electric Lakers"
+          },
+          {
+            "number": 8516,
+            "name": "Wired up"
+          }
+        ],
+        "blue": [
+          {
+            "number": 4182,
+            "name": "Viking Robotics"
+          },
+          {
+            "number": 4480,
+            "name": "UC-botics"
+          },
+          {
+            "number": 8188,
+            "name": "Grand Force"
+          }
+        ]
+      }
+    },
+    {
+      "matchNumber": 1017,
+      "matchTime": "",
+      "teams": {
+        "red": [
+          {
+            "number": 7038,
+            "name": "Totinio Grace Pizza pi's"
+          },
+          {
+            "number": 8586,
+            "name": "Firebird Robotics"
+          },
+          {
+            "number": 3058,
+            "name": "Androids"
+          }
+        ],
+        "blue": [
+          {
+            "number": 4226,
+            "name": "Huskies"
+          },
+          {
+            "number": 7578,
+            "name": "Quantum mechanics"
+          },
+          {
+            "number": 7028,
+            "name": "Binary Battalion"
+          }
+        ]
+      }
+    },
+    {
+      "matchNumber": 1018,
+      "matchTime": "",
+      "teams": {
+        "red": [
+          {
+            "number": 5348,
+            "name": "Charger Robotics"
+          },
+          {
+            "number": 6749,
+            "name": "Terabytes"
+          },
+          {
+            "number": 2855,
+            "name": "Beastbot"
+          }
+        ],
+        "blue": [
+          {
+            "number": 4656,
+            "name": "Rock solid Robotics"
+          },
+          {
+            "number": 6709,
+            "name": "Spud INC."
+          },
+          {
+            "number": 7677,
+            "name": "Bodacious Bulldogs"
+          }
+        ]
+      }
+    },
+    {
+      "matchNumber": 1019,
+      "matchTime": "",
+      "teams": {
+        "red": [
+          {
+            "number": 8887,
+            "name": "West Central Area"
+          },
+          {
+            "number": 4607,
+            "name": "CIS"
+          },
+          {
+            "number": 6628,
+            "name": "KMS botkickers"
+          }
+        ],
+        "blue": [
+          {
+            "number": 8372,
+            "name": "HCN storm"
+          },
+          {
+            "number": 2503,
+            "name": "Warrior Robotics"
+          },
+          {
+            "number": 5041,
+            "name": "Cybears"
+          }
+        ]
+      }
+    },
+    {
+      "matchNumber": 1020,
+      "matchTime": "",
+      "teams": {
+        "red": [
+          {
+            "number": 8878,
+            "name": "Arrowbot"
+          },
+          {
+            "number": 6175,
+            "name": "EVW mystery machine"
+          },
+          {
+            "number": 2509,
+            "name": "Tigerbots"
+          }
+        ],
+        "blue": [
+          {
+            "number": 7103,
+            "name": "Robo Remedy @ Manitowoc Lutheran High school"
+          },
+          {
+            "number": 3026,
+            "name": "Orange Crush"
+          },
+          {
+            "number": 4166,
+            "name": "Robostang"
+          }
+        ]
+      }
+    },
+    {
+      "matchNumber": 1021,
+      "matchTime": "",
+      "teams": {
+        "red": [
+          {
+            "number": 5143,
+            "name": "Raw Steel"
+          },
+          {
+            "number": 3848,
+            "name": "Bots in shining armor"
+          },
+          {
+            "number": 6244,
+            "name": "Light sabers"
+          }
+        ],
+        "blue": [
+          {
+            "number": 8188,
+            "name": "Grand Force"
+          },
+          {
+            "number": 4728,
+            "name": "Rocori Ratcheteers"
+          },
+          {
+            "number": 4238,
+            "name": "Resistance Robotics"
+          }
+        ]
+      }
+    },
+    {
+      "matchNumber": 1022,
+      "matchTime": "",
+      "teams": {
+        "red": [
+          {
+            "number": 8422,
+            "name": "Husky Howlers"
+          },
+          {
+            "number": 7068,
+            "name": "Mechanical Masterminds"
+          },
+          {
+            "number": 3278,
+            "name": "Electric Lakers"
+          }
+        ],
+        "blue": [
+          {
+            "number": 2883,
+            "name": "FRED"
+          },
+          {
+            "number": 3276,
+            "name": "TOOLCATS"
+          },
+          {
+            "number": 7530,
+            "name": "Raiders of the lost Spark"
+          }
+        ]
+      }
+    },
+    {
+      "matchNumber": 1023,
+      "matchTime": "",
+      "teams": {
+        "red": [
+          {
+            "number": 5658,
+            "name": "Stormbotics"
+          },
+          {
+            "number": 8255,
+            "name": "Robodogs"
+          },
+          {
+            "number": 4480,
+            "name": "UC-botics"
+          }
+        ],
+        "blue": [
+          {
+            "number": 7257,
+            "name": "Semiconductors"
+          },
+          {
+            "number": 3740,
+            "name": "Storm Robotics"
+          },
+          {
+            "number": 4182,
+            "name": "Viking Robotics"
+          }
+        ]
+      }
+    },
+    {
+      "matchNumber": 1024,
+      "matchTime": "",
+      "teams": {
+        "red": [
+          {
+            "number": 2538,
+            "name": "Plaid Pillagers"
+          },
+          {
+            "number": 6045,
+            "name": "Sabre Robotics"
+          },
+          {
+            "number": 4239,
+            "name": "Warpspeed"
+          }
+        ],
+        "blue": [
+          {
+            "number": 8516,
+            "name": "Wired up"
+          },
+          {
+            "number": 2667,
+            "name": "Knights of the Valley"
+          },
+          {
+            "number": 7578,
+            "name": "Quantum mechanics"
+          }
+        ]
+      }
+    }
+  ]
+}
